@@ -4,16 +4,10 @@
   />
 </p>
 <p align="center">
-  <picture>
-    <source
-      width="350px"
-      srcset="https://phantommovies.com/images/PhantomMoviesText.png"
-    >
     <img 
       width="350px"
       src="https://phantommovies.com/images/PhantomMoviesText.png"
     >
-  </picture>
 </p>
 <p align="center">
     <a href="https://phantommovies.com/">
