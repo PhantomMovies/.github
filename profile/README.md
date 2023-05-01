@@ -38,13 +38,13 @@
 ## <img height="24px" src="https://cdn.discordapp.com/emojis/994357120575226016.gif?size=80&quality=lossless" /> Contributors
 
 [phantom-movies]: https://contrib.rocks/image?repo=oLoGYy-Vidss/oLoGYyVidss-api-wrapper&max=12
-[phantom-wrapper]: https://contrib.rocks/image?repo=oLoGYy-Vidss/oLoGYyVidss-api-wrapper&max=12
+[phantom-wrapper]: https://contrib.rocks/image?repo=PhantomMovies/PhantomMovies-api-wrapper&max=12
 [phantom-android]: https://contrib.rocks/image?repo=oLoGYy-Vidss/oLoGYyVidss-Android-App&max=12
 
 |                                  ❤️ Project                                   | ❤ Contributors                                                                                    |
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
 |          🍿 [PhantomMovies.com](https://phantommovies.com)          | [![phantom-movies]](https://github.com/oLoGYy-Vidss/ologyyvidss.com/graphs/contributors)                   |
-|      ⌨️ [Node.js SDK](https://github.com/revanced/revanced-patcher)      | [![phantom-wrapper]](https://github.com/oLoGYy-Vidss/oLoGYyVidss-api-wrapper/graphs/contributors)           |
+|      ⌨️ [Node.js SDK](https://github.com/revanced/revanced-patcher)      | [![phantom-wrapper]](https://github.com/PhantomMovies/PhantomMovies-api-wrapper/graphs/contributors)           |
 |      📱 [Android App](https://github.com/revanced/revanced-patches)      | [![phantom-android]](https://github.com/oLoGYy-Vidss/oLoGYyVidss-Android-App/graphs/contributors)           |
 
 ## <img height="24px" src="https://cdn.discordapp.com/emojis/938159748384165968.gif?size=80&quality=lossless" /> Friends
