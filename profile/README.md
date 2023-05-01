@@ -44,8 +44,8 @@
 |                                  ❤️ Project                                   | ❤ Contributors                                                                                    |
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
 |          🍿 [PhantomMovies.com](https://phantommovies.com)          | [![phantom-movies]](https://github.com/oLoGYy-Vidss/ologyyvidss.com/graphs/contributors)                   |
-|      ⌨️ [Node.js SDK](https://github.com/revanced/revanced-patcher)      | [![phantom-wrapper]](https://github.com/PhantomMovies/PhantomMovies-api-wrapper/graphs/contributors)           |
-|      📱 [Android App](https://github.com/revanced/revanced-patches)      | [![phantom-android]](https://github.com/oLoGYy-Vidss/oLoGYyVidss-Android-App/graphs/contributors)           |
+|      ⌨️ [Node.js SDK](https://github.com/PhantomMovies/PhantomMovies)      | [![phantom-wrapper]](https://github.com/PhantomMovies/PhantomMovies-api-wrapper/graphs/contributors)           |
+|      📱 [Android App]()      | [![phantom-android]](https://github.com/oLoGYy-Vidss/oLoGYyVidss-Android-App/graphs/contributors)           |
 
 ## <img height="24px" src="https://cdn.discordapp.com/emojis/938159748384165968.gif?size=80&quality=lossless" /> Friends
 
