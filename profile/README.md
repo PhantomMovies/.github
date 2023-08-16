@@ -49,15 +49,27 @@
 
 ## <img height="24px" src="https://cdn.discordapp.com/emojis/938159748384165968.gif?size=80&quality=lossless" /> Friends
 
-<a href="https://streamhide.com/reg6159.html">
+<a href="https://filelions.com">
   <picture>
     <source
-      srcset="https://streamhide.com/sh2/images/logo.svg"
+      srcset="https://filelions.com/theme/images/logo.svg"
       media="(prefers-color-scheme: dark)"
     />
     <img height="32px"
-      src="https://streamhide.com/sh2/images/logo.svg"
-      alt="StreamHide icon"
+      src="https://filelions.com/theme/images/logo.svg"
+      alt="FileLions icon"
+    />
+  </picture>
+</a>
+<a href="https://streamhub.to">
+  <picture>
+    <source
+      srcset="https://streamhub.to/images/STREAMHUB_LOGO.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="45px"
+      src="https://streamhub.to/images/STREAMHUB_LOGO.png"
+      alt="Streamhub icon"
     />
   </picture>
 </a>
